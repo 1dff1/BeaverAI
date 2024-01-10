@@ -4,7 +4,7 @@ from aiogram.types import Message, BotCommand
 from sqltools import exists_in_table, add_record
 from freeGPT import AsyncClient
 
-API_TOKEN: str = 'API Token'
+API_TOKEN: str = 'Your API Token'
 bot: Bot = Bot(token=API_TOKEN)
 dp: Dispatcher = Dispatcher()
 
