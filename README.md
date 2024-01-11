@@ -115,7 +115,7 @@ python main.py
 
 3. Use the following commands to interact with the bot:
 
-- `/start': Start a conversation and register as a user.
+- `/start`: Start a conversation and register as a user.
 - `/help`: Get help using an artificial intelligence assistant.
 - `/gpt`: Call an artificial intelligence assistant and provide a request.
 
@@ -123,11 +123,11 @@ python main.py
 
 ### Command /start
 
-The '/start` command is used to start a conversation with the bot. If you are already registered as a user, the bot greets you with a message. Otherwise, it registers you as a new user in the SQL database and sends a successful registration message.
+The `/start` command is used to start a conversation with the bot. If you are already registered as a user, the bot greets you with a message. Otherwise, it registers you as a new user in the SQL database and sends a successful registration message.
 
 ### Command /help
 
-The '/help` command provides information on how to use an artificial intelligence assistant. She explains that the `/gpt` command is used to call the assistant and gives an example of the request structure.
+The `/help` command provides information on how to use an artificial intelligence assistant. She explains that the `/gpt` command is used to call the assistant and gives an example of the request structure.
 
 ### Command /gpt
 
@@ -139,7 +139,7 @@ You can customize the bot's commands and responses by changing the code in the s
 
 ## Dependencies
 
-- The `sqltools' library: [https://github.com/1dff1/sqltools ](https://github.com/1dff1/sqltools )
+- The `sqltools` library: [https://github.com/1dff1/sqltools ](https://github.com/1dff1/sqltools )
 
 ---
 
